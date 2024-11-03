@@ -8,7 +8,7 @@ Currently studying to become a software developer with specialization in AI in o
 
 **No that does not mean i can fix your printer**
 
-**This account is currently being used only for education and contribution purposes**
+**This account is currently being used only for education and contribution purposes**<br/>
 For projects I primarily use my [Codeberg account](https://codeberg.org/furry)
 
 ## Tech Stack
